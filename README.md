@@ -1,1 +1,1 @@
-This code uses multiple class files to make robots dance in specific patterns. To some extent, each pattern is randomized to make each dancer doing the same dance be different. All of the dancers were invited to a DanceParty where they got to show off their moves!
+This Java code uses multiple class files to make robots dance in specific patterns. To some extent, each pattern is randomized to make each dancer doing the same dance be different. All of the dancers were invited to a DanceParty where they got to show off their moves!
